@@ -1,5 +1,5 @@
  <p>
-  <img  width ="150" align="right" src="https://komarev.com/ghpvc/?username=shreyahegde18&label=Profile%20views&color=0e75b6&style=flat" alt="shreyahegde18">
+  <img  width ="150" align="right" src="https://komarev.com/ghpvc/?username=ameleshm&label=Profile%20views&color=0e75b6&style=flat" alt="ameleshm">
 </p> 
 
 ![github wallpaper](https://github.com/shreyahegde18/shreyahegde18/assets/106897123/d9abc59f-bc49-4390-919b-5897b52a0ab5)
