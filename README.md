@@ -10,7 +10,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-university-64.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Bachelors of Engineering'24 @Acharya Institute of Technology, Bengaluru.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-ai-48.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Majored in Artificial Intelligence and Machine Learning.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/target.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Data Analyst at Target.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨&nbsp;&nbsp;Passionated towards Deep Learning and Natural Language Processing.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-ai-processor-68.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Currently Exploring Generative AI.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/icons8-chess-96.png" alt="C" width="20" height="20" />&nbsp;&nbsp;Always up for a Game of Chess.<br>
@@ -18,8 +17,8 @@
 
 ## Connect 📩
 <p>
-  <a target="_blank"href="https://www.linkedin.com/in/shreya--hegde--/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:shreyahegde486@gmail.com?subject=Hello%20Shreya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/amelesh-m--/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ameleshmanu8@gmail.com?subject=Hello%20Amelesh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## My Tech Stack
